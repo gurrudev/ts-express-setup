@@ -1,5 +1,5 @@
 # ts-express-setup
-This repository is for the setup of NodeJs, TypeScript and ExpressJs project with MVC architecture
+This repository is the setup of NodeJs, TypeScript and ExpressJs project with MVC architecture
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine.

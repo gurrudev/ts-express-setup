@@ -20,7 +20,8 @@ const errorHandler: ErrorRequestHandler = (err, req, res, next) =>{
     })
 };
 
+app.use(errorHandler)
 
 const server : Server = app.listen(PORT, ()=>{
-    console.log(`Server is live on port ${PORT}`);
+    console.log(`Server is live on port: ${PORT} 🚀`);
 });

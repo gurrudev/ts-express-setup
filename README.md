@@ -6,7 +6,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 You need to have installed:
 <p>
-<img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge">
 <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white">
